@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.microservice.example.forex;
+package com.chahar.springboot.microservice.example.forex;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ExchangeValueRepository extends 
