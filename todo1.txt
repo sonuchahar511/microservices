@@ -7,3 +7,10 @@ https://www.baeldung.com/jhipster-microservices
   https://www.jhipster.tech/microservices-architecture/
   
   SASS- language for css
+
+Lynda.com
+  Creating Your First RESTful Spring Boot Microservice with JPA--
+    Extending, Securing, and Dockerizing Spring Boot Microservices--
+  Spring Boot Essential Training
+  Spring: Framework In Depth
+  
