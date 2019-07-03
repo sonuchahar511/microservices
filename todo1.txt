@@ -5,3 +5,5 @@ https://blog.imaginea.com/cross-context-communication-between-web-applications/
 
 https://www.baeldung.com/jhipster-microservices
   https://www.jhipster.tech/microservices-architecture/
+  
+  SASS- language for css
