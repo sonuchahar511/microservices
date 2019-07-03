@@ -10,3 +10,5 @@ in28minutes tutorials
 https://start.spring.io/
 
 https://www.in28minutes.com/software-architecture-why-should-we-use-layered-architecture
+
+https://cloud.spring.io/spring-cloud-netflix/multi/multi__service_discovery_eureka_clients.html
