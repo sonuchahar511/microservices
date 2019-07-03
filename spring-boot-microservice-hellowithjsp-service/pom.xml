@@ -8,8 +8,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>spring-boot-microservice-forex-service</name>
-	<description>Microservices with Spring Boot and Spring Cloud - Forex Service</description>
+	<name>spring-boot-microservice-hellowithjsp-service</name>
+	<description>Microservices with Spring Boot -Service</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
