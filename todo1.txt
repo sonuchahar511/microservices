@@ -1,0 +1,7 @@
+https://dzone.com/articles/a-guide-to-spring-framework-annotations
+
+https://blog.imaginea.com/cross-context-communication-between-web-applications/
+
+
+https://www.baeldung.com/jhipster-microservices
+  https://www.jhipster.tech/microservices-architecture/
